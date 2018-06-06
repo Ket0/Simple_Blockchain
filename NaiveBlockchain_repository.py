@@ -350,7 +350,7 @@ while True:
 	# bis Python keinen Speicher mehr zur Verfuegung hat.
 	# (mach das nicht ;) )
 
-	if i==3000000:
+	if i==300:
 		# Drucke testweise die Attribute
 		# des ersten und letzten Blocks.
 		anzahl = len(myBlockchain)

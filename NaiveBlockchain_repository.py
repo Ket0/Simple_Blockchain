@@ -4,7 +4,7 @@
 ##
 ## Version: 1.0 
 ##
-## Author : Stefan Eickholz
+## Autor : Stefan Eickholz
 ## Datum:   01.06.2018
 ## Ort:     Potsdam
 ## Sprache: Python

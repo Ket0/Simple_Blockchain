@@ -23,3 +23,11 @@ my initial blockchain implementation written in python
 6. Ein neues Fenster öffnet sich. Klicke dieses Fenster an und drücke Taste 'F5' (=Programm starten)
 
 7. Im anderen Fenster (Shell) wird nun die Blockkette erstellt und der erste und letzte Block mit ihren Attributen in die Ausgabe geschrieben.
+
+
+Links:
+
+Was schreibt SAP zur Blockchain Technologie?
+
+https://blogs.saphana.com/2018/06/12/sap-hana-goes-blockchain-bringing-together-business-and-blockchain-data/
+

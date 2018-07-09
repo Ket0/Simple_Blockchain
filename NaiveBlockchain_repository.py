@@ -2,7 +2,7 @@
 ## 
 ## // Einfache Blockchain in Python \\
 ##
-## Version: 1.0 
+## Version: 0.1
 ##
 ## Autor : Stefan Eickholz
 ## Datum:   01.06.2018

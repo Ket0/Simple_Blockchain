@@ -7,7 +7,7 @@
 ## Autor : Stefan Eickholz
 ## Datum:   01.06.2018
 ## Ort:     Potsdam
-## Sprache: Python
+## Sprache: Python 
 ## Version: 3.6.1
 ##
 
